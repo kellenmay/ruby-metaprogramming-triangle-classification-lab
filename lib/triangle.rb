@@ -17,7 +17,6 @@ def valid?
   else
     false
   end
-  # binding.pry
 end
 
 def kind
