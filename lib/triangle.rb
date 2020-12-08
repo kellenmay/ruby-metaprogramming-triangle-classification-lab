@@ -34,6 +34,7 @@ end
 
 #binding.pry
 class TriangleError < StandardError
+  
 
 end
 
