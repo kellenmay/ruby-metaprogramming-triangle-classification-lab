@@ -34,10 +34,7 @@ end
 
 #binding.pry
 class TriangleError < StandardError
-  
-  def message
-    "this triangle is invalid"
-  end
+
 end
 
 end
